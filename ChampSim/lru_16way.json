@@ -1,0 +1,7 @@
+{
+  "LLC": {
+    "replacement": "lru",
+    "ways": 16,
+    "sets": 2048
+  }
+}

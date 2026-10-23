@@ -1,0 +1,4 @@
+Benchmark,LRU_MissRate(%),Hawkeye_MissRate(%),Reduction(%)
+456.hmmer-191B,25.94,26.91,-3.74
+429.mcf-22B,64.82,93.90,-44.86
+473.astar-42B,19.63,72.78,-270.76

@@ -1,0 +1,17 @@
+# Ignore trace files
+ChampSim/traces/*.xz
+ChampSim/traces/*.trace
+
+# Ignore build artifacts and ChampSim binaries
+ChampSim/bin/
+ChampSim/obj/
+ChampSim/.csconfig/
+ChampSim/*.o
+
+# Ignore Python virtual environments
+ChampSim/.venv/
+
+# Ignore large output results
+ChampSim/results_exp1/
+ChampSim/results_exp2/
+ChampSim/*.txt
